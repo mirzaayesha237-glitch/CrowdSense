@@ -1,0 +1,10 @@
+{
+  "name": "CrowdSense",
+  "description": "Know Before You Go — Real-time community tourist crowd monitoring and wait-time intelligence platform.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
